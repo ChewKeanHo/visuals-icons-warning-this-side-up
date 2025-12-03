@@ -1,0 +1,52 @@
+cff-version: "1.2.0"
+type: "dataset"
+date-released: "2026-11-16"
+title: "Warning This Side Up 1200x1200 Icon"
+version: "0.0.1"
+license: "cc-by-nd-4.0"
+repository: "https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up"
+repository-code: "https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up"
+repository-artifact: "https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up"
+url: "https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up"
+contact:
+  - affiliation: "(Holloway) Chew, Kean Ho"
+    given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "visuals@chewkeanho.com"
+    website: "https://visuals.chewkeanho.com"
+abstract: |-
+  Need a simple icon visual indicator for a generic Warning This Side Up
+  1200x1200 Icon? This project is the right place.
+
+  Designed properly using standardized symbols as references, this icon is
+  specifically created for warning any human regardless of language, background,
+  and culture that a particular object's surface **MUST** be always on top.
+  Under an open license, one can freely use it for one's project as long as you
+  **DO NOT** alter the graphic file.
+
+  If you need customization, please contact us.
+message: |-
+  Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "visuals@chewkeanho.com"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
+identifiers:
+  - type: doi
+    value: "[DOI_ID_HERE]"
+    description: "(General) DOI Identifier"
+  - type: other
+    value: "chewkeanho-visuals-icons-warning-this-side-up"
+    description: "Product SKU Identifier"
+  - type: other
+    value: "6F0461BD-E176-11F1-AF1F-6C02E09BA663"
+    description: "Product UUID Identifier"
+keywords:
+  - "this side up"
+  - "warning"
+  - "icons"
+  - "design"
+  - "graphics design"
+  - "visuals"
+  - "creative visuals"

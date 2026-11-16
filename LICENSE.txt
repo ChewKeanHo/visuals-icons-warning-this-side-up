@@ -1,4 +1,4 @@
-Copyright 2026 The Warning This Side Up 1200x1200 Icon 1200x1200 Icon Project Team (https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up)
+Copyright 2026 The Warning This Side Up 1200x1200 Icon 1200x1200 Icon Project Team (https://doi.org/10.5281/zenodo.24270240)
 
 The above unified aliases have one or more actual legal entities listed outside
 of this document: (1) 'CREATORS.txt' or 'AUTHORS.txt'; and

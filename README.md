@@ -167,11 +167,11 @@ Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-icons-warning-this-side-up
 UUID: 6F0461BD-E176-11F1-AF1F-6C02E09BA663
-DOI: [DOI_ID]
+DOI: 10.5281/zenodo.24270240
 License: Creative Commons Attribution-NoDerivatives 4.0 International License (https://creativecommons.org/licenses/by-nd/4.0)
 Repository Made On: 2026-11-16
 Repository Made From: Malaysia, South East Asia
-Procure: https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up
+Procure: https://doi.org/10.5281/zenodo.24270240
 ```
 
 
